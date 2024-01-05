@@ -14,6 +14,10 @@
 ## Project Overview
 This project is designed to offer a comprehensive understanding of the progression and implications of the COVID-19 pandemic. Through a meticulous analysis of various data facets, we aim to discern patterns in confirmed cases, fatalities, recoveries, and testing. Our objective extends to the comparison of COVID-19 statistics among diverse regions, as well as the scrutiny of the effects of interventions such as lockdowns or vaccination campaigns. The ultimate goal is to formulate data-driven recommendations and cultivate a more profound insight into the dynamics of the pandemic.
 
+<img width="614" alt="Covid 1" src="https://github.com/Modupe-Adeniyi/Covid-19-Analysis/assets/151841781/516779d7-6b8d-45eb-ab38-66452a15a9e1">
+
+<img width="629" alt="Covid 2" src="https://github.com/Modupe-Adeniyi/Covid-19-Analysis/assets/151841781/f7879ebe-767d-4123-8fa9-3005ebfdcfb4">
+
 ## Data Sources
 The primary dataset utilized in this analysis is the "Covid_19_India_Dataset.csv" sourced from Intern Career. This dataset provides comprehensive information on daily reported COVID-19 cases, encompassing details such as the number of confirmed cases, deaths, recoveries, and testing data.
 

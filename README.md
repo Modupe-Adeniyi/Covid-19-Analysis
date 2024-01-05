@@ -1,5 +1,16 @@
 # Covid-19 Analysis
 
+## Table of contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Preparation and Cleaning](#data-preparation-and-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
+- [Limitation](#limitation)
 ## Project Overview
 This project is designed to offer a comprehensive understanding of the progression and implications of the COVID-19 pandemic. Through a meticulous analysis of various data facets, we aim to discern patterns in confirmed cases, fatalities, recoveries, and testing. Our objective extends to the comparison of COVID-19 statistics among diverse regions, as well as the scrutiny of the effects of interventions such as lockdowns or vaccination campaigns. The ultimate goal is to formulate data-driven recommendations and cultivate a more profound insight into the dynamics of the pandemic.
 
@@ -16,7 +27,7 @@ During the initial preparation phase, the following tasks were executed:
 - Addressing missing values to ensure data consistency.
 - Conducting data cleaning and formatting procedures.
 
-## Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis
 EDA involved exploring the dataset to answer key questions such as:
 1. What are the trends in confirmed cases, deaths, recoveries, and testing?
 2. What is the severity of cases in different regions?
